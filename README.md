@@ -1,4 +1,5 @@
-## Hi there 👋
+# 집가고 싶다
+# 과제 싫다
 
 <!--
 **kimmimjae/kimmimjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-집가고 싶다
